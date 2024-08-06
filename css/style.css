@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(163, 160, 160);
+}
+.header{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(0, 174, 255);
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    margin-bottom: 50px;
+}
+/* //////////////////////////////             discounts             /////////////////////////////////////////                  */
+.discounts .table{
+    text-align: center;
+    margin-top: 50px;
+}
+.table .country{
+    text-transform: capitalize;
+}
+.table .supplier{
+    text-transform: capitalize;
+}
+.discounts{
+    width: 100%;
+    height: 700px;
+    overflow-y: scroll;
+}
+.total{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(0, 174, 255);
+    margin-left: auto;
+    line-height: 50px;
+    color: white;
+    font-size: 20px;
+}
+.footer{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color:white ;
+    padding-bottom: 20px;
+    position: absolute;
+    top: 900px;
+}
