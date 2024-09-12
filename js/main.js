@@ -897,20 +897,6 @@ let discounts=[
         amount:"1%"
     },
     {
-        id:"68",
-        disc_code:"1110",
-        disc_name:"Backend UAE AI All AD PT 3% UGAL UAEGALIMP AMAD",
-        validity_from:"28-02-2024",
-        validity_to:"30-12-2024",
-        country:"united arab emirates",
-        branches:"Dubai",
-        agencies:"All",
-        rule:"IN",
-        airline_code:"AI",
-        supplier:"galileo,amadeus",
-        amount:"3%"
-    },
-    {
         id:"69",
         disc_code:"1125",
         disc_name:"SEG UAE Extra ET 18AED Oneway",
@@ -1233,34 +1219,6 @@ let discounts=[
         amount:"5%"
     },
     {
-        id:"98",
-        disc_code:"1281",
-        disc_name:"BACKEND EGY SV ALL 70 LE GAL AMAD",
-        validity_from:"14-07-2024",
-        validity_to:"31-12-2024",
-        country:"egypt",
-        branches:"All",
-        agencies:"All",
-        rule:"IN",
-        airline_code:"SV",
-        supplier:"galileo,amadeus",
-        amount:"100"
-    },
-    {
-        id:"99",
-        disc_code:"1276",
-        disc_name:"UPFRONT ALL AZ ALL 3% AD PT GAL AMA",
-        validity_from:"07-07-2024",
-        validity_to:"31-12-2024",
-        country:"All",
-        branches:"All",
-        agencies:"All",
-        rule:"IN",
-        airline_code:"AZ",
-        supplier:"galileo,amadeus",
-        amount:"3%"
-    },
-    {
         id:"101",
         disc_code:"1334",
         disc_name:"SEG EGY MS ALL PT 200LE AMAD OW Branch",
@@ -1483,20 +1441,6 @@ let discounts=[
         airline_code:"All",
         supplier:"aircairouae",
         amount:"0"
-    },
-    {
-        id:"117",
-        disc_code:"1394",
-        disc_name:"MS EGY 5% International TAD10",
-        validity_from:"02-09-2024",
-        validity_to:"07-09-2024",
-        country:"egypt",
-        branches:"All",
-        agencies:"All",
-        rule:"IN",
-        airline_code:"MS",
-        supplier:"amadeus",
-        amount:"5%"
     },
     {
         id:"118",
